@@ -18,5 +18,7 @@ Project is created with:
 * OpenCv version:  4.5.2. 
 
 ## Output
+check the link of the output here:
+https://www.linkedin.com/feed/update/urn:li:activity:6756553053064728576/
 
 
