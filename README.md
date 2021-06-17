@@ -18,3 +18,6 @@ Project is created with:
 * OpenCv version:  4.5.2. 
 
 ## Setup
+
+
+## Output
