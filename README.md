@@ -1,6 +1,6 @@
 # Covid-19-Mask-Detection
 ## Table of contents
-* [General info](#Introducation)
+* [Inroduction](#Introducation)
 * [Technologies](#Technologies)
 * [Setup](#setup)
 
