@@ -17,3 +17,4 @@ Project is created with:
 * Pytorch version: 1.8.0 
 * OpenCv version:  4.5.2. 
 
+## Setup
