@@ -17,8 +17,6 @@ Project is created with:
 * Pytorch version: 1.8.0 
 * OpenCv version:  4.5.2. 
 
-## Setup
-
-
 ## Output
-![Test Image 3](/Dua-Lipa-Blondish-hair.jpg)
+
+
