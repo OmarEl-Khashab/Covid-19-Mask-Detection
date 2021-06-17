@@ -2,9 +2,6 @@
 ## Table of contents
 * [Inroduction](#Introducation)
 * [Technologies](#Technologies)
-* [Setup](#setup)
-
-
 
 ## Introduction 
 * Hey Everyone i would like to introduce to you my simpe "Covid-19 Mask Detection"
@@ -16,8 +13,5 @@
 Project is created with:
 * Pytorch version: 1.8.0 
 * OpenCv version:  4.5.2. 
-
-## Setup
-
 
 ## Output
