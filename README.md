@@ -71,7 +71,7 @@ Check the Results:
 
 | No Mask Image           | Mask Image            |
 |-------------------------|-----------------------|
-| ![Image 1](/nomask.png) | ![Image 2](/mask.png) |
+| ![Image 1](/results%20/nomask.png) | ![Image 2](/results%20/mask.png) |
 
 Project video: https://www.linkedin.com/feed/update/urn:li:activity:6756553053064728576/
 
