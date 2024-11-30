@@ -59,12 +59,12 @@ The real-time system leverages the speed and accuracy of ResNet-34, combined wit
 3. Start Training your Model by running:
 
  	```sh
-	  python Train.py
+	  python train.py
 	```
 4. Start Live video inference:
 
  	```sh
-	  python Video.py
+	  python live_video.py
 	```
 ## Output of Video is Uploaded on Linkedin 
 Check the Results:

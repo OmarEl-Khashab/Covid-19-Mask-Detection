@@ -1,7 +1,7 @@
 from torch.utils.data import DataLoader
 from torchvision.transforms import RandomRotation
-from Model import Resnet34
-from MASK import MASK
+from model import Resnet34
+from mask_dataset import MASK
 import torch
 from torchvision import transforms
 from sklearn.metrics import confusion_matrix, f1_score
@@ -64,6 +64,6 @@ def test(data_dir):
 
 
 if __name__ == "__main__":
-    data_dir = "D:/Mask Detection"
+    data_dir = "/Mask Detection"
     # data_dir = "/home/abdalla/Omar/mask_detection"
     test(data_dir)

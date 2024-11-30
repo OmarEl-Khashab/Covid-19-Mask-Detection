@@ -3,8 +3,8 @@ from torch import optim
 from torch import nn
 from torchvision.transforms import RandomRotation
 from torch.optim.lr_scheduler import StepLR
-from Model import Resnet34
-from MASK import MASK
+from model import Resnet34
+from mask_dataset import MASK
 import torch
 from torchvision import transforms
 import matplotlib.pyplot as plt
@@ -103,7 +103,7 @@ def train(data_dir, epochs):
 
 if __name__ == "__main__":
     epochs = 700
-    data_dir = "D:/Mask Detection"
+    data_dir = "/Mask Detection"
     # data_dir = "/home/abdalla/Omar/mask_detection"
     train(data_dir, epochs)
     os.environ["KMP_DUPLICATE_LIB_OK"] = "True"
