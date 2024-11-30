@@ -12,7 +12,7 @@ This system is built with **PyTorch** for the deep learning backend and **OpenCV
 * [Idea Behind](#idea-behind)  
 * [Prerequisites](#prerequisites)  
 * [Installation and Setup](#installation-and-setup)  
-* [Output](#output)  
+* [Results](#Results)  
 * [Acknowledgements](#acknowledgements)  
 
 ## Introduction  
@@ -66,9 +66,14 @@ The real-time system leverages the speed and accuracy of ResNet-34, combined wit
  	```sh
 	  python live_video.py
 	```
-## Output of Video is Uploaded on Linkedin 
+## Results 
 Check the Results:
-https://www.linkedin.com/feed/update/urn:li:activity:6756553053064728576/
+
+| No Mask Image           | Mask Image            |
+|-------------------------|-----------------------|
+| ![Image 1](/nomask.png) | ![Image 2](/mask.png) |
+
+Project video: https://www.linkedin.com/feed/update/urn:li:activity:6756553053064728576/
 
 ## Acknowledgement
 
